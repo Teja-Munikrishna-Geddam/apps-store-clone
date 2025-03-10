@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
   async function displayApps() {
     try {
       // Fetch the JSON data
-      const response = await fetch("http://127.0.0.1:3000/JavaScript_API/appData.json");
+      const response = await fetch("appData.json");
 
       if (!response.ok) {
         throw new Error(`HTTP error! Status: ${response.status}`);

@@ -1,0 +1,86 @@
+/* General Page Styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+h1 {
+  padding: 20px;
+}
+
+/* Category Styling */
+.category {
+  width: 90%;
+  max-width: 1200px;
+  background: white;
+  margin: 20px auto;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.category-title {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 15px;
+  text-align: left;
+  padding-left: 10px;
+}
+
+/* Apps Container (Horizontal Scroll) */
+.apps-container {
+  display: flex;
+  overflow-x: auto;
+  gap: 15px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  scroll-behavior: smooth;
+}
+
+/* App Card Styling */
+.app-card {
+  flex: 0 0 auto;
+  width: 140px;
+  background: white;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s;
+}
+
+.app-card:hover {
+  transform: scale(1.05);
+}
+
+/* App Logo */
+.app-logo {
+  width: 80px;
+  height: 80px;
+  border-radius: 20%;
+  object-fit: cover;
+}
+
+/* App Name */
+.app-name {
+  font-size: 14px;
+  margin: 8px 0;
+}
+
+/* Download Button */
+.app-link {
+  display: inline-block;
+  padding: 5px 10px;
+  background: #0288d1;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+.app-link:hover {
+  background: #0277bd;
+}

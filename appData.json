@@ -1,0 +1,154 @@
+{
+  "categories": [
+    {
+      "title": "Suggestions For You",
+      "apps": [
+        {
+          "name": "Kindle",
+          "logo": "https://www.cashry.com/blog/wp-content/uploads/2020/06/kindle_app_logo.jpg",
+          "downloadLink": "https://play.google.com/store/apps/details?id=com.amazon.kindle"
+        },
+        {
+          "name": "Domino's pizza",
+          "logo": "https://wallpapers.com/images/hd/dominos-pizza-pepperoni-feast-cvm9v5hxd8a1eqzf.jpg",
+          "downloadLink": "https://play.google.com/store/apps/details?id=com.Dominos"
+        },
+        {
+          "name": "Spotify",
+          "logo": "https://tse4.mm.bing.net/th?id=OIP.S3aXGKjTcp222_CiNf-9OwHaHa&pid=Api&P=0&h=220",
+          "downloadLink": "https://play.google.com/store/apps/details?id=com.spotify.music"
+        },
+        {
+          "name": "Telegram",
+          "logo": "https://tse2.mm.bing.net/th?id=OIP.8Fer3CJg5EPtQ7pCjdKf-QHaDt&pid=Api&P=0&h=220",
+          "downloadLink": "https://play.google.com/store/apps/details?id=org.telegram.messenger"
+        },
+        {
+          "name": "Snapchat",
+          "logo": "https://cdn.wccftech.com/wp-content/uploads/2017/01/snapchat.png",
+          "downloadLink": "https://play.google.com/store/apps/details?id=com.snapchat.android"
+        }
+      ]
+    },
+    {
+      "title": "Games",
+      "apps": [
+        {
+          "name": "FootBall League",
+          "logo": "https://www.topgames.com/thumb/games/Football-League-2024.jpg",
+          "downloadLink": "https://play.google.com/store/apps/details?id=com.football.soccer.league"
+        },
+        {
+          "name": "Angry Birds",
+          "logo": "https://tse4.mm.bing.net/th?id=OIP.-Gw6qXZn2W9Z20XV0CxJ3wHaFU&pid=Api&P=0&h=220",
+          "downloadLink": "https://play.google.com/store/apps/details?id=com.rovio.angrybirdsfriends"
+        },
+        {
+          "name": "NFS - No Limits",
+          "logo": "https://tse4.mm.bing.net/th?id=OIP.SPEh7Txa9f3p-OX0_l6-6gHaHa&pid=Api&P=0&h=220",
+          "downloadLink": "https://play.google.com/store/apps/details?id=com.ea.game.nfs14_row"
+        },
+        {
+          "name": "Star Wars",
+          "logo": "https://tse4.mm.bing.net/th?id=OIP.YFXvAIFIRGAZPmbNqI9hDQHaHa&pid=Api&P=0&h=220",
+          "downloadLink": "https://play.google.com/store/apps/details?id=com.zynga.starwars.hunters"
+        },
+        {
+          "name": "Plague Inc.",
+          "logo": "https://image.api.playstation.com/cdn/EP1955/CUSA04843_00/L6wNzpfcqKdOqJOhOIb71LUgVQkHf7MF.png",
+          "downloadLink": "https://drive.google.com/file/d/1qRXhgyKAFu_T6gXy5aqnz9H8Fo0RyZEV/view?usp=share_link"
+        },
+        {
+          "name": "Free Fire",
+          "logo": "https://cdn-bgp.bluestacks.com/BGP/latam/gametiles_com.dts.freefireth.jpg",
+          "downloadLink": "https://play.google.com/store/apps/details?id=com.dts.freefiremax"
+        }
+      ]
+    },
+    {
+      "title": "Children",
+      "apps": [
+        {
+          "name": "YouTube Kids",
+          "logo": "https://tse3.mm.bing.net/th?id=OIP.P_pwIRN1wetApPF62QCeogHaF_&pid=Api&P=0&h=220",
+          "downloadLink": "https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.kids"
+        },
+        {
+          "name": "Times Tables",
+          "logo": "https://www.printablemultiplication.com/wp-content/uploads/2019/12/best-54-multiplication-table-wallpaper-on-hipwallpaper-with-printable-multiplication-table-12x12-1.png",
+          "downloadLink": "https://play.google.com/store/apps/details?id=aichner.benjamin.timestables"
+        },
+        {
+          "name": "Color learning",
+          "logo": "https://cdn.shopify.com/s/files/1/0022/9303/9202/products/Colors-learning-chart-LAMINATED-poster-teachers-and-educators-Blue-Border-Landscape-no-pictures-portrait-fun-classroom-d-B07B9RXGNM.jpg?v=1546025540",
+          "downloadLink": "https://play.google.com/store/apps/details?id=com.kids.colors.games.free.toddlers.learning.coloring.preschool.baby.girls.boys.children"
+        },
+        {
+          "name": "Letters & Numbers",
+          "logo": "https://play-lh.googleusercontent.com/sIusqkBjdggTExld4-A6uegpFFn8SWaGnQjSh5tw03hUxgkJmmofTVcDLUh43jNcke8",
+          "downloadLink": "https://play.google.com/store/apps/details?id=com.zigzap.alphabets.numbers.tracingforkids"
+        },
+        {
+          "name": "Wolfoo craft-making",
+          "logo": "https://play-lh.googleusercontent.com/_joJZ2DBz8jztKNbWJUtU4cyu4zYV5V1VmvOlmnFk1yA5KeFYY6swxTdXgG7T5Aap6Hf",
+          "downloadLink": "https://play.google.com/store/apps/details?id=wolfoo.design.handmade.crafts"
+        }
+      ]
+    },
+    {
+      "title": "Premium Apps",
+      "apps": [
+        {
+          "name": "GB WhatsApp",
+          "logo": "https://static.republika.co.id/uploads/member/images/news/9x4raranor.jpg",
+          "downloadLink": "https://drive.google.com/file/d/1dbVJ2EruJujvGIL8BmAvjLhmtuCwuzxb/view?usp=share_link"
+        },
+        {
+          "name": "Adobe Spark Pro",
+          "logo": "https://www.tree-learning.fr/wp-content/uploads/2021/03/Adobe_Spark_logo.png",
+          "downloadLink": "https://drive.google.com/file/d/1Wh6Dpf5df938_2c-AyyXiPd5Mq3scEFG/view?usp=share_link"
+        },
+        {
+          "name": "FL Studio Mobile",
+          "logo": "https://tse4.mm.bing.net/th?id=OIP.xN7HurfzGhUTJ0tJlDmExwAAAA&pid=Api&P=0&h=220",
+          "downloadLink": "https://drive.google.com/file/d/1n946W3jXZy3SmdD6CZoaYmPikR2jd6AG/view?usp=share_link"
+        },
+        {
+          "name": "PicsArt Pro",
+          "logo": "https://tse4.mm.bing.net/th?id=OIP.FxlsLFHiNn2xGexdEZx21wAAAA&pid=Api&P=0&h=220",
+          "downloadLink": "https://drive.google.com/file/d/1Gw_HaFGgw7Adgu0Pm5-D50HIuMmQemyV/view?usp=share_link"
+        }
+      ]
+    },
+    {
+      "title": "Editor's Choice",
+      "apps": [
+        {
+          "name": "WhatsApp",
+          "logo": "https://static.vecteezy.com/system/resources/previews/014/414/681/original/whatsapp-square-logo-on-transparent-background-free-vector.jpg",
+          "downloadLink": "https://play.google.com/store/apps/details?id=com.whatsapp"
+        },
+        {
+          "name": "Linkedin",
+          "logo": "https://static.vecteezy.com/system/resources/previews/021/460/490/original/linkedin-logo-free-download-free-png.png",
+          "downloadLink": "https://play.google.com/store/apps/details?id=com.linkedin.android"
+        },
+        {
+          "name": "Facebook",
+          "logo": "https://ats-sport.com/images/facebook-logo.jpg",
+          "downloadLink": "https://play.google.com/store/apps/details?id=com.facebook.katana"
+        },
+        {
+          "name": "Instagram",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png",
+          "downloadLink": "https://play.google.com/store/apps/details?id=com.instagram.android"
+        },
+        {
+          "name": "Twitter",
+          "logo": "https://tse2.mm.bing.net/th?id=OIP.PmtJAgpGPCx8YvsR4isengHaHa&pid=Api&P=0&h=220",
+          "downloadLink": "https://play.google.com/store/apps/details?id=com.twitter.android"
+        }
+      ]
+    }
+  ]
+}
